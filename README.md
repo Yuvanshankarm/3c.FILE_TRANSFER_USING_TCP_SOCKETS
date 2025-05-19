@@ -58,9 +58,13 @@ while True:
     conn.close()
 ```
 ## OUPUT
+
 clinet.py
+
 ![image](https://github.com/user-attachments/assets/bb4b90ba-3b84-486a-b642-13c878e3aeae)
+
 server.py
+
 ![image](https://github.com/user-attachments/assets/9bd6532e-5534-4427-8809-bf91dc8fea14)
 
 ## RESULT
